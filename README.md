@@ -1,0 +1,2 @@
+# gmo_aozora_bank_chrome_extension
+GMOあおぞら銀行の残高を常にchrome拡張で確認したいぞ
